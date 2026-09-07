@@ -1,2 +1,6 @@
 Project status: Development
+<<<<<<< HEAD
 Status: Feature one
+=======
+Status: Feature two
+>>>>>>> feature/change-two
